@@ -1,0 +1,43 @@
+This text file contains information on the course "Programming with Python" which aims at covering basics of the programming aspect and can as well be considered as the first learning tool to the world of Programming . The course is based on "Python" as Python is easily readable and understandable.I am thinking of making a website for this course where all materials as well as necessaries can be downloaded.
+
+Duration of the course :- (6 months).. Can be extended if the course content is not fulfilled
+
+Prerequisites of the course: Basic mathematical operations ( Addition,Multiplication,Division and subtraction)
+
+PC requirements:
+
+. PC with capability to share screen and run python scripts. Nowadays all of our computers are able to do so with ease
+..      As our meeting platform is zoom , we need to install zoom in our PCs.
+... Coming to python specific requirements , we need to install python3 as well as jupyter notebook(package) as I am excited to run scripts of python at first.
+.... Later, as the course progresses , I strongly recommend either a good editor like visual studio code or pycharm (preferably) .
+..... As per the needs I will recommend other packages for the  course .
+
+I hope this course will not deal with many of the packages and stay with the basics . But I guess if we can move through some of the basic stuff faster we should go.
+I am trying to build a course structure that schedules 3 50-min informal classes in a week for 6 months with some quizzes in between.
+
+I am thinking of giving out a form in some of the weeks to get the review of the student(exclusively).
+
+
+    Beautiful is better than ugly.
+    Explicit is better than implicit.
+    Simple is better than complex.
+    Complex is better than complicated.
+    Flat is better than nested.
+    Sparse is better than dense.
+    Readability counts.
+    Special cases aren't special enough to break the rules.
+    Although practicality beats purity.
+    Errors should never pass silently.
+    Unless explicitly silenced.
+    In the face of ambiguity, refuse the temptation to guess.
+    There should be one-- and preferably only one --obvious way to do it.
+    Although that way may not be obvious at first unless you're Dutch.
+    Now is better than never.
+    Although never is often better than right now.
+    If the implementation is hard to explain, it's a bad idea.
+    If the implementation is easy to explain, it may be a good idea.
+    Namespaces are one honking great idea -- let's do more of those!
+
+    —Tim Peters
+
+Source : The Zen of Python (https://www.python.org/doc/humor/)
