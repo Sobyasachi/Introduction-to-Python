@@ -1,0 +1,99 @@
+In [1]: ord(32)
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+<ipython-input-1-11712f564c54> in <module>
+----> 1 ord(32)
+
+TypeError: ord() expected string of length 1, but int found
+
+In [2]: chr(32)
+Out[2]: ' '
+
+In [3]: chr(0)
+Out[3]: '\x00'
+
+In [4]: chr(1)
+Out[4]: '\x01'
+
+In [5]: chr(2)
+Out[5]: '\x02'
+
+In [6]: print(chr(1)+'amla')
+☺amla
+
+In [7]: print(chr(9)+'amla')
+        amla
+
+In [8]: print(chr(11)+'amla')
+♂amla
+
+In [9]: print('\a')
+
+
+In [10]: print('\a')
+
+
+In [11]: print('\a')
+
+
+In [12]: print('\a')
+
+
+In [13]: print('\a')
+
+
+In [14]: print('pagla'+'\b')
+pagla
+
+In [15]: print(chr(7))
+
+
+In [16]: print(chr(8))
+
+
+In [17]: print('a'+chr(8))
+a
+
+In [18]: foo = "abc"
+    ...: foo = foo + "\b" + "xyz"
+    ...: print foo
+  File "<ipython-input-18-7dfe7a6ef877>", line 3
+    print foo
+          ^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(foo)?
+
+
+In [19]: foo = "abc"
+    ...: foo = foo + "\b" + "xyz"
+    ...: print(foo)
+abxyz
+
+In [20]: foo = "abc"
+    ...: foo = foo + chr(8) + "xyz"
+    ...: print(foo)
+abxyz
+
+In [21]: print('\0')
+
+
+In [22]: print('\1')
+☺
+
+In [23]: print(ord('\1'))
+1
+
+In [24]: print(ord('\0'))
+0
+
+In [25]: print(chr(0))
+
+
+In [26]:
+
+
+https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html
+
+In [1]: print('I '*10)
+I I I I I I I I I I
+
+In [2]:
