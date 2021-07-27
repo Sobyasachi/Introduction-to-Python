@@ -1,7 +1,15 @@
 table,th,td{
     border: 1px solid black;
     text-align: left;
+    border-style:inset;
 }
+td:hover{
+    background-color: tan;
+}
+th:hover{
+    background-color:navajowhite;
+}
+
 .done{
     color:green;
 }
@@ -9,5 +17,5 @@ table,th,td{
     color: red;
 }
 .due{
-    color:saddlebrown
+    color:orangered;
 }

@@ -1,0 +1,4 @@
+Q)
+Try finish the jumbled game . The notebook should help you out .
+The jumbled game should give a jumbled word to user .
+User gives the guess which computer checks with the original word.
